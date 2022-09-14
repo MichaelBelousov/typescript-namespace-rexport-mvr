@@ -2,6 +2,6 @@
 export type T = string;
 
 export namespace T {
-  export function f(): T { return "f"; }
+  export function f(): T { return "f-test"; }
 }
 

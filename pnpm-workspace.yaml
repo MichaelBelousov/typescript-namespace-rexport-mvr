@@ -1,0 +1,4 @@
+packages:
+  - "exportpkg"
+  - "reexportpkg"
+  - "consumerpkg"

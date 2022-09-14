@@ -1,16 +1,17 @@
 {
-  "name": "typescript-reexport-merge-bug",
+  "name": "reexportpkg",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "lib/reexporter.js",
   "scripts": {
-    "build": "pnpm -r build",
+    "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "exportpkg": "workspace:^1.0.0",
     "typescript": "^4.8.3"
   }
 }

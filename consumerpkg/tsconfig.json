@@ -23,6 +23,7 @@
     "strictNullChecks": true,
     "stripInternal": false,
     "target": "ES2019",
+    "outDir": "lib",
   },
   "include": [
     "./**/*.ts",

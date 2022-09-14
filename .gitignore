@@ -1,6 +1,8 @@
 # ts
 *.tsbuildinfo
 *.d.ts
+lib
+
 # js
 node_modules
 *.map
