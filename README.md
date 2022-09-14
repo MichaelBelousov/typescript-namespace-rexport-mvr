@@ -2,6 +2,7 @@
 ### build
 
 ```sh
+pnpm install
 pnpm build
 ```
 
